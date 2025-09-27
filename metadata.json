@@ -1,0 +1,5 @@
+{
+  "name": "Magical Story Creator AI",
+  "description": "A children's storybook creator that uses AI to generate unique stories and illustrations based on user choices. Offers tiered plans for different levels of creativity and customization, including uploading personal images for characters and places.",
+  "requestFramePermissions": []
+}
